@@ -1,0 +1,6 @@
+ProjectGroup::Configs.group "widget_overlay" do |g|
+  g.project "widget_overlay" do |p|
+    p.path "/code/orig/ember_npm_projects/overlays/widget"
+    p.type :eak
+  end
+end
